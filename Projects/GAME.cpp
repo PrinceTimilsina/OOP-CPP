@@ -1,4 +1,4 @@
-//------------------------This is C++ Number Guessing Game:Here, i am using rand() and srand()------------------------------
+//------------------------This is C++ Number Guessing Game:Here, i am using rand() and srand()------------------------------  
 #include <iostream>
 #include <cstdlib> // for rand() and srand()
 #include <ctime>   // for time()
