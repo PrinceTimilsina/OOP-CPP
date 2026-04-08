@@ -11,7 +11,6 @@ private:
     float balance;
 public:
 	//here i am using constructor:
-	
     ATM(string user,string pass,float initialbalance) {
         username=user;
         password=pass;
@@ -143,7 +142,6 @@ int main() {
    }
     default:
     cout<<"Invalid choice , Please try again."<<endl;
-    
         }   
     } 
   while (choice != 5);  //this exit when user selects logout
