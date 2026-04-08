@@ -16,7 +16,6 @@ public:
         password=pass;
         balance=initialbalance;
     }
-
     // Method to login using the entered username and password,I didnot used int as return type is not necessary in this portion,only displayed message
     void login(string& user,string& pass) {
         while (user!=username || pass!=password)
