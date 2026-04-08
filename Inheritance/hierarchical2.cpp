@@ -1,8 +1,8 @@
-//C++ Program of Hierarchical inheritance to display area and circumference of circle
+//C++ Program of Hierarchical inheritance to display area and circumference of circle 
 #include<iostream>
 using namespace std;
 class Circle{
-    protected:
+    protected: 
     int r,a,c;
     float pi=3.14;
     public:
