@@ -32,7 +32,7 @@ class cc:public Circle{
 
 int main(){
     area obj;
-    cc obj1;
+    cc obj1;  
     obj.setData(5);
     obj.calculateArea();
     obj1.setData(4);
