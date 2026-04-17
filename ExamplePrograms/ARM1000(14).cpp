@@ -4,7 +4,7 @@ int main(){
 	int n,nn,r,s;
 	cout<<"Armstrong Number upto 1 to 1000 are: ";
 	for(n=1;n<=1000;n++){
-		nn=n;
+		nn=n;//
 		s=0;
 		while(nn!=0){
 			r=nn%10;
